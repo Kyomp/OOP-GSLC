@@ -1,14 +1,14 @@
-import java.util.LinkedList;
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public abstract class Stem implements Node{
 	protected String type;
 	protected int alpha;
 	protected int beta;
-	protected LinkedList<Node> children;
+	protected ArrayList<Node> children;
 	private int value;
 	public Stem() {
-		children = new LinkedList<Node>();
+		children = new ArrayList<Node>();
 	}
 	@Override
 	public int getValue() {
